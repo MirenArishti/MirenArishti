@@ -18,7 +18,8 @@ Namaste 🙏
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-# 🚦 GitHub Status
+# 📊 GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MirenArishti&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirenArishti&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Miren's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirenArishti&show_icons=true&theme=radical)
