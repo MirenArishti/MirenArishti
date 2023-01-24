@@ -21,5 +21,5 @@ Namaste 🙏
 # 📊 GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MirenArishti&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirenArishti&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Miren's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirenArishti&show_icons=true&theme=radical)
+![Miren's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirenArishti&show_icons=true&theme=radical)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirenArishti&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
