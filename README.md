@@ -21,3 +21,4 @@ Namaste 🙏
 # 🚦 GitHub Status
 
 https://github-readme-streak-stats.herokuapp.com/?user=MirenArishti
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MirenArishti&theme=dark&background=000000)](https://git.io/streak-stats)
