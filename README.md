@@ -1,7 +1,7 @@
 ### :man_technologist: About Me :
 ---
 
-Namaste,
+Namaste 🙏
 
 - 🔭 I’m currently working as an Intern at Arishti Info Labs.
 - 🌱 I’m currently learning how to learn.
